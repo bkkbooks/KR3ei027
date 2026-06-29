@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3ei027/jc/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷之二佚
+  hash: sha256:8df0cadfd5e36b50c49e1c8757dbed8898af9a2d3962c61a2e44c15f2b946bfe
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ei027_jc_002-d5.h1s1}
+metadata:
+  title: 女科指掌
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ei027.xml
+hash: sha256:44335f793a107625727bde4c42d97c39493e9b957f65582ceff496a831d9dbf5
